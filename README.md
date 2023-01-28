@@ -19,4 +19,6 @@ As we just said, we are asked to implement our own shell, but what is a shell to
 - | pipes
 - redirections
 
+# useful links
+https://www.codequoi.com/en/creating-and-killing-child-processes-in-c/
 
